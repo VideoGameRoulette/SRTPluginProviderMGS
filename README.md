@@ -1,2 +1,2 @@
 # SRTPluginProviderMGS
-Plugin Provider for Metal Gear Solid
+Plugin Provider For Metal Gear Solid (PC)
